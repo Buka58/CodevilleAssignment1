@@ -1,0 +1,18 @@
+.parent{
+    border: 2px solid orange;
+flex-direction: row;
+display: flex;
+justify-content: center;
+background-color: yellow;
+flex-wrap: wrap;
+align-content: space-between;
+}
+.child{
+    border: 2px solid red;
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+
+}
