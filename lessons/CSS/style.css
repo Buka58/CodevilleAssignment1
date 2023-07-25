@@ -1,0 +1,43 @@
+.heading{
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 24px;
+    font-variant: small-caps;
+    text-align: center;
+text-decoration-line: underline;
+padding: 80px;
+border: 2px solid green ;
+background-color: blue;
+margin-bottom: 80px;
+}
+.me{
+     border: 3px dotted yellowgreen;
+     background-color: aquamarine;
+     
+}
+.enzo{
+    position:relative;
+    top: 30px;
+    left: 20px;
+    margin-bottom:30px;
+}
+.parent{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    border: 6px solid orange;
+    margin-top: 6px;
+   
+}
+.child{
+    position: absolute;
+    border: 5px solid blue;
+    top: 30px;
+    left: 60px;
+}
+.sticky{
+    position: sticky;
+    top: 10px;
+    border: 1px solid red;
+}
